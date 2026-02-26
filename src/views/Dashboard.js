@@ -1,4 +1,4 @@
-
+ 
 import { store } from '../store.js';
 
 export function Dashboard() {
